@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cardContainer{
+    width: 70vw;
+    margin: 60px auto;
+}
+.locationCard{
+    /* margin-top: 25px; */
+    width: 70%;
+    margin: 20px 0;
+    margin-left: 70px;
+}
